@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I am Tai 👋
 
-<!--
-**buitai97/buitai97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I’m currently learning **Next.js, TypeScript, and AI**
+- 💻 I’m working on projects in **JavaScript, Python, and Java**
+- 📫 How to reach me: [Email](mailto:taibui97@goutlook.com@com)
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** JavaScript, Python, Java, SQL, CSS
+- **Frameworks:** React, Node.js, Next.js, JavaFX
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Docker, VS Code, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
